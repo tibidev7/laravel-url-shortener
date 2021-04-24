@@ -6,7 +6,7 @@ Live demo: http://www.laravel-url-shortener.herokuapp.com/
 
 - Login using Google Account.
 - Responsive design built with Tailwind CSS.
-- URL Validation (check if URL is valid and exists before creating a short url)
-- Simple statistics which allows you to see how many clicks a url received
+- URL Validation (check if URL is valid and exists before creating a short URL)
+- Simple statistics which allows you to see how many clicks a URL received
 
 This repository may or not receive new updates.
