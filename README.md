@@ -1,3 +1,5 @@
+![demo](https://i.imgur.com/d2X7Y2E.png)
+
 ## About Laravel URL Shortener
 
 Laravel URL Shortener allows to reduce long links from Instagram, Facebook, YouTube, Twitter, Linked In and top sites on the Internet, just paste the long URL and click the Shorten URL button. On the next screen, copy the shortened URL and share it on websites, chat and e-mail. After shortening the URL, check how many clicks it received. Basically it's just a replica of https://www.shorturl.at/
